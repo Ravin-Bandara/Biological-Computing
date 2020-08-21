@@ -12,3 +12,4 @@ DNAseq <- function(x){
 }
 
 DNAseq("ATGCAATCGTGCA")
+DNAseq("ATHNCGGTHJATTCAGC")
